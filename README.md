@@ -3,10 +3,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=73088d&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Felipe+Ribeiro+Pacheco;I+am+17+years+old;I+study+Information+Systems+at+Unipam;Welcome+to+my+github!+:%29)](https://git.io/typing-svg) 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=felp-thecyber&show_icons=true&count_private=true&hide_border=true&title_color=73088d&icon_color=73088d&text_color=c9d1d9&bg_color=0d1117" alt="Felipe Ribeiro Pacheco github stats"/> 
+<!-- <div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=felpthecyber&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Felipe Ribeiro github stats"/>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felp-thecyber&layout=compact&hide_border=true&title_color=73088d&text_color=73088d&bg_color=0d1117" />
-</div>
+</div> -->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felp-thecyber&bg_color=000000&color=73088d&line=73088d&point=73088d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
